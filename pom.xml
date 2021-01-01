@@ -26,7 +26,7 @@ under the License.
     <groupId>org.apache.maven</groupId>
     <artifactId>maven-parent</artifactId>
     <version>34</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <artifactId>maven</artifactId>
@@ -293,7 +293,7 @@ under the License.
       <dependency>
         <groupId>javax.annotation</groupId>
         <artifactId>jsr250-api</artifactId>
-        <version>1.0</version>
+        <version>1.0-20050927.133100</version>
       </dependency>
       <dependency>
         <groupId>org.codehaus.plexus</groupId>
